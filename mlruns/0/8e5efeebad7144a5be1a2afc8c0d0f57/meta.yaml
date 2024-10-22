@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/8e5efeebad7144a5be1a2afc8c0d0f57/artifacts
+end_time: 1729567604678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e5efeebad7144a5be1a2afc8c0d0f57
+run_name: colorful-dog-146
+run_uuid: 8e5efeebad7144a5be1a2afc8c0d0f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567560488
+status: 4
+tags: []
+user_id: danieljimenez

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/f282b893d5334a65b0b39e7132a617dc/artifacts
+end_time: 1729567879638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f282b893d5334a65b0b39e7132a617dc
+run_name: industrious-asp-817
+run_uuid: f282b893d5334a65b0b39e7132a617dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567873799
+status: 3
+tags: []
+user_id: danieljimenez

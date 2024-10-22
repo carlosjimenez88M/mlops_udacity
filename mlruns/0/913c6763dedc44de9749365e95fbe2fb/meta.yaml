@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/913c6763dedc44de9749365e95fbe2fb/artifacts
+end_time: 1729568599120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 913c6763dedc44de9749365e95fbe2fb
+run_name: likeable-carp-549
+run_uuid: 913c6763dedc44de9749365e95fbe2fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568588748
+status: 3
+tags: []
+user_id: danieljimenez

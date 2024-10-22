@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/5015f8f0ee8a44acaae978bc52e821d2/artifacts
+end_time: 1729567910196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5015f8f0ee8a44acaae978bc52e821d2
+run_name: omniscient-shad-801
+run_uuid: 5015f8f0ee8a44acaae978bc52e821d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567879661
+status: 3
+tags: []
+user_id: danieljimenez

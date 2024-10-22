@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/eca790e6d1d94b01a6eb5726882983e4/artifacts
+end_time: 1729567910471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eca790e6d1d94b01a6eb5726882983e4
+run_name: worried-moth-730
+run_uuid: eca790e6d1d94b01a6eb5726882983e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567861478
+status: 4
+tags: []
+user_id: danieljimenez

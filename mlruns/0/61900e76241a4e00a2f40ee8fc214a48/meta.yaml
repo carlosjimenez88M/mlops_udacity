@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/61900e76241a4e00a2f40ee8fc214a48/artifacts
+end_time: 1729568588721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61900e76241a4e00a2f40ee8fc214a48
+run_name: placid-gnu-598
+run_uuid: 61900e76241a4e00a2f40ee8fc214a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568579806
+status: 3
+tags: []
+user_id: danieljimenez

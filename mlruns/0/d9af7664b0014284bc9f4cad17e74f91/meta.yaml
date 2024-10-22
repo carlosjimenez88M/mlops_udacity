@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/d9af7664b0014284bc9f4cad17e74f91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9af7664b0014284bc9f4cad17e74f91
+run_name: dashing-hog-361
+run_uuid: d9af7664b0014284bc9f4cad17e74f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567366918
+status: 1
+tags: []
+user_id: danieljimenez

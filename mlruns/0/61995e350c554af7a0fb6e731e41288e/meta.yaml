@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/61995e350c554af7a0fb6e731e41288e/artifacts
+end_time: 1729568050601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61995e350c554af7a0fb6e731e41288e
+run_name: brawny-mouse-106
+run_uuid: 61995e350c554af7a0fb6e731e41288e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568043750
+status: 3
+tags: []
+user_id: danieljimenez

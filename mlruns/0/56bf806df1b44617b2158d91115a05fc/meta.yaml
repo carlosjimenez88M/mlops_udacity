@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/56bf806df1b44617b2158d91115a05fc/artifacts
+end_time: 1729568572801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56bf806df1b44617b2158d91115a05fc
+run_name: victorious-eel-689
+run_uuid: 56bf806df1b44617b2158d91115a05fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568564940
+status: 3
+tags: []
+user_id: danieljimenez

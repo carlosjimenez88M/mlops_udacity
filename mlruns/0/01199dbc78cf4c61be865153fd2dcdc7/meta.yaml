@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/01199dbc78cf4c61be865153fd2dcdc7/artifacts
+end_time: 1729567683901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01199dbc78cf4c61be865153fd2dcdc7
+run_name: carefree-gnu-56
+run_uuid: 01199dbc78cf4c61be865153fd2dcdc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567641227
+status: 4
+tags: []
+user_id: danieljimenez

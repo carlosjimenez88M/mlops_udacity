@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/c2ba6fa6736f4aee859a353168ad1f5a/artifacts
+end_time: 1729567399685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2ba6fa6736f4aee859a353168ad1f5a
+run_name: tasteful-ray-369
+run_uuid: c2ba6fa6736f4aee859a353168ad1f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567305823
+status: 4
+tags: []
+user_id: danieljimenez

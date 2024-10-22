@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/d058c71620624d7c8ddbab83c13243c8/artifacts
+end_time: 1729568420687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d058c71620624d7c8ddbab83c13243c8
+run_name: charming-ram-907
+run_uuid: d058c71620624d7c8ddbab83c13243c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568412717
+status: 3
+tags: []
+user_id: danieljimenez

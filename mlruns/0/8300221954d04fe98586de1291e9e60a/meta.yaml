@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/8300221954d04fe98586de1291e9e60a/artifacts
+end_time: 1729568641498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8300221954d04fe98586de1291e9e60a
+run_name: suave-rook-686
+run_uuid: 8300221954d04fe98586de1291e9e60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568628527
+status: 3
+tags: []
+user_id: danieljimenez

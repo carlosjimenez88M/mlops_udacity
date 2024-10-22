@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/1997ea2703874d9bbcc72a0bb7599712/artifacts
+end_time: 1729567651228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1997ea2703874d9bbcc72a0bb7599712
+run_name: nosy-koi-162
+run_uuid: 1997ea2703874d9bbcc72a0bb7599712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567643817
+status: 3
+tags: []
+user_id: danieljimenez

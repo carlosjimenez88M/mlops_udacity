@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/fba4031c57954c1aacbdcc2ca5bf2334/artifacts
+end_time: 1729568146367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fba4031c57954c1aacbdcc2ca5bf2334
+run_name: awesome-donkey-980
+run_uuid: fba4031c57954c1aacbdcc2ca5bf2334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568119680
+status: 4
+tags: []
+user_id: danieljimenez

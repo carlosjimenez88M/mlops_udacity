@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/f16443a8774e4b74975ade4aa6a8cbfb/artifacts
+end_time: 1729568137519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f16443a8774e4b74975ade4aa6a8cbfb
+run_name: fortunate-bird-945
+run_uuid: f16443a8774e4b74975ade4aa6a8cbfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568130704
+status: 3
+tags: []
+user_id: danieljimenez

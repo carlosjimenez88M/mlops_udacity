@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/456905eb5adc443c832bc25711fe3eb1/artifacts
+end_time: 1729568628499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 456905eb5adc443c832bc25711fe3eb1
+run_name: nervous-deer-487
+run_uuid: 456905eb5adc443c832bc25711fe3eb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568599146
+status: 3
+tags: []
+user_id: danieljimenez

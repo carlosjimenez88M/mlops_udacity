@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/8838dda7de084bcc8bdaa309f2de2c2f/artifacts
+end_time: 1729568641647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8838dda7de084bcc8bdaa309f2de2c2f
+run_name: rumbling-moose-222
+run_uuid: 8838dda7de084bcc8bdaa309f2de2c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568562541
+status: 3
+tags: []
+user_id: danieljimenez

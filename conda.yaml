@@ -1,5 +1,5 @@
 name: segregation_state
-channel:
+channels:
   - conda-forge
   - defaults
 dependencies:

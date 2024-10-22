@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/b1a6119226c9422ca13260a109a99ae2/artifacts
+end_time: 1729567366895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1a6119226c9422ca13260a109a99ae2
+run_name: smiling-colt-574
+run_uuid: b1a6119226c9422ca13260a109a99ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567337151
+status: 3
+tags: []
+user_id: danieljimenez

@@ -6,7 +6,7 @@ dependencies:
   - python==3.10
   - requests
   - pip== 24.0
-  - pandas== 2.2.1
+  - pandas
   - scikit-learn
   - mlflow
   - pip:

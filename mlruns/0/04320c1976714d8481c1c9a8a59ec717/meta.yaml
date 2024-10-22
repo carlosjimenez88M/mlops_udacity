@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/04320c1976714d8481c1c9a8a59ec717/artifacts
+end_time: 1729568043728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04320c1976714d8481c1c9a8a59ec717
+run_name: melodic-squirrel-467
+run_uuid: 04320c1976714d8481c1c9a8a59ec717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568035692
+status: 3
+tags: []
+user_id: danieljimenez

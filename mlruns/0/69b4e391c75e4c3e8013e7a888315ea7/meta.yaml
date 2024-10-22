@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/69b4e391c75e4c3e8013e7a888315ea7/artifacts
+end_time: 1729567224853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69b4e391c75e4c3e8013e7a888315ea7
+run_name: sincere-seal-404
+run_uuid: 69b4e391c75e4c3e8013e7a888315ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729567202564
+status: 4
+tags: []
+user_id: danieljimenez

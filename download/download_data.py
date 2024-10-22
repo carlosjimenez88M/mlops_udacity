@@ -4,7 +4,7 @@
 # -- libraries -- #
 #=================#
 
-import argparser
+import argparse
 import logging
 import pathlib
 import wandb 

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/2d37a94103974b74b50864570298292c/artifacts
+end_time: 1729568195960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d37a94103974b74b50864570298292c
+run_name: unique-bee-917
+run_uuid: 2d37a94103974b74b50864570298292c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568187269
+status: 3
+tags: []
+user_id: danieljimenez

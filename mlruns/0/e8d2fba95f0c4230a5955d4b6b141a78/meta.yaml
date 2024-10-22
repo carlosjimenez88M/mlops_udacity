@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/mlruns/0/e8d2fba95f0c4230a5955d4b6b141a78/artifacts
+end_time: 1729568130679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8d2fba95f0c4230a5955d4b6b141a78
+run_name: smiling-loon-106
+run_uuid: e8d2fba95f0c4230a5955d4b6b141a78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729568122880
+status: 3
+tags: []
+user_id: danieljimenez

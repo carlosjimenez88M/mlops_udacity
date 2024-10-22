@@ -1,11 +1,11 @@
-name: preprocessing_data
+name: download_data
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python= 3.10
-  - pandas= 2.2.3
+  - pandas
   - pip= 24.0
   - pyarrow
   - pip:
-    - wandb= 0.18.5
+    - wandb== 0.18.5

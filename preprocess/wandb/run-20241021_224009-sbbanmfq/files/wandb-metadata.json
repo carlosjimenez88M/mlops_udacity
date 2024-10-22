@@ -1,0 +1,49 @@
+{
+  "os": "macOS-14.6.1-arm64-arm-64bit",
+  "python": "3.10.15",
+  "startedAt": "2024-10-22T03:40:09.049512Z",
+  "args": [
+    "--input_artifact",
+    "raw_data.parquet:latest",
+    "--artifact_name",
+    "preprocessed_data.csv",
+    "--artifact_type",
+    "preprocessed_data",
+    "--artifact_description",
+    "Data with preprocessing applied"
+  ],
+  "program": "/Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/preprocess/run.py",
+  "codePath": "preprocess/run.py",
+  "git": {
+    "remote": "git@github-personal:carlosjimenez88M/mlops_udacity.git",
+    "commit": "aef1f66c8d64f53106a6d97bdbec4ca170232ad7"
+  },
+  "email": "danieljimenez88m@gmail.com",
+  "root": "/Users/danieljimenez/Documents/Projects/Personal_Projects/mlops/cap5-mlops/mlops_udacity/preprocess",
+  "host": "mbp-de-daniel.lan",
+  "username": "danieljimenez",
+  "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/mlflow-7841828bb1cfaa30d961a5f0e7d6a66fd6a3ba29/bin/python",
+  "codePathLocal": "run.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "388441600000"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "apple": {
+    "name": "Apple M1 Pro",
+    "ecpuCores": 2,
+    "pcpuCores": 8,
+    "gpuCores": 16,
+    "memoryGb": 16
+  }
+}

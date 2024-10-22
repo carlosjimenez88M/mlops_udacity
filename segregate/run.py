@@ -1,22 +1,18 @@
 #!/usr/bin/env python
-
-import argparser
+import argparse
 import logging
 import os
 import tempfile
 
 import pandas as pd
-import wandb 
-import sklearn.model_selection import train_test_set
+import wandb
+from sklearn.model_selection import train_test_split
 
-# logging configuration -------
 
-logging.basicConfig(level=logging.INFO,
-                    format= "%(asctiime) -15s %(message)s")
-
+logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s")
 logger = logging.getLogger()
 
-# main function -------
+
 def go(args):
 
     run = wandb.init(job_type="split_data")
@@ -38,27 +34,39 @@ def go(args):
         stratify=df[args.stratify] if args.stratify != 'null' else None,
     )
 
+    # Save the artifacts. We use a temporary directory so we do not leave
+    # any trace behind
     with tempfile.TemporaryDirectory() as tmp_dir:
+
         for split, df in splits.items():
-            artifact_name = f'{args.artifact_root}_{split}.csv'
-            temp_path = os.path.join(temp_dir, artifact_name)
 
-            logger.info(f'Uploading the {split} dataset to {artifact_name}')
+            # Make the artifact name from the provided root plus the name of the split
+            artifact_name = f"{args.artifact_root}_{split}.csv"
 
+            # Get the path on disk within the temp directory
+            temp_path = os.path.join(tmp_dir, artifact_name)
+
+            logger.info(f"Uploading the {split} dataset to {artifact_name}")
+
+            # Save then upload to W&B
             df.to_csv(temp_path)
 
-            artifact =  wandb.Artifact(
-                name= artifact_name,
-                type= args.artifact_type,
-                description= f'{split} split of dataset {args.input_artifacts}'
+            artifact = wandb.Artifact(
+                name=artifact_name,
+                type=args.artifact_type,
+                description=f"{split} split of dataset {args.input_artifact}",
             )
             artifact.add_file(temp_path)
 
-            logger.info('logging artifact')
-
+            logger.info("Logging artifact")
             run.log_artifact(artifact)
 
+            # This waits for the artifact to be uploaded to W&B. If you
+            # do not add this, the temp directory might be removed before
+            # W&B had a chance to upload the datasets, and the upload
+            # might fail
             artifact.wait()
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
