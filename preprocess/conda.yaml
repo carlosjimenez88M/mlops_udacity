@@ -1,0 +1,11 @@
+name: preprocessing_data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python= 3.10
+  - pandas= 2.2.3
+  - pip= 24.0
+  - pyarrow
+  - pip:
+    - wandb= 0.18.5

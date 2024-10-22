@@ -1,0 +1,12 @@
+name: segregation_state
+channel:
+  - conda-forge
+  - defaults
+dependencies:
+  - requests
+  - pip= 24.0
+  - mlflow= 2.4.1
+  - hydra-core
+  - pip:
+    - wandb== 0.18.5
+    - hydra-joblib-launcher

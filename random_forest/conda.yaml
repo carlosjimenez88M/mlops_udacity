@@ -1,0 +1,15 @@
+name: download_data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - pip=24.0
+  - scikit-learn
+  - matplotlib
+  - plotly
+  - pillow
+  - mlflow
+  - pip:
+      - wandb==0.18.5
